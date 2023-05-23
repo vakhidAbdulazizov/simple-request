@@ -1,0 +1,19 @@
+{
+    "name": "simple/request",
+    "description": "Simple request - quick API implementation",
+    "type": "project",
+    "license": "none",
+    "autoload": {
+        "psr-4": {
+            "Simple\\Request\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Vakhid Abdulazizov",
+            "email": "vakhid.abdulazizov@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
